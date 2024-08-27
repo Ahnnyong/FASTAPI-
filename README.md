@@ -1,6 +1,8 @@
 # FASTAPI-
 FASTAPI를 활용한 게시판 글 작성, 수정, 삭제, 조회하기, VISUAL STUDIO CODE와 MYSQL, 명령 프롬프트 사용...
-![image](https://github.com/user-attachments/assets/d2da4d69-feab-4090-997f-c069584b8d09)---MYSQL은 이정도로
+![361645839-d2da4d69-feab-4090-997f-c069584b8d09](https://github.com/user-attachments/assets/1e24efd0-04da-42c1-b1e4-1deba7059716)
+
+---MYSQL은 이정도로
 
 
 다른 명령 프롬프트에서는 cd 해당 폴더 위치로 가서, python -m venv venv ,  .\venv\Scripts\activate, pip install uvicorn, pip install fastapi
